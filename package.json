@@ -1,0 +1,15 @@
+{
+  "id": "devhubapp",
+  "name": "DevHub",
+  "version": "1.0.0",
+  "description": "devhubapp.com",
+  "main": "index.js",
+  "author": "Luong Vo <vodailuong@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/luongvo/franz-recipe-devhubapp",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://devhubapp.com/"
+  }
+}
