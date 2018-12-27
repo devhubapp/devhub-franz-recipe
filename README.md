@@ -1,4 +1,4 @@
-# franz-recipe-devhubapp
-A Franz recipe for devhubapp.com service
+# [DevHub](https://github.com/devhubapp/devhub)
+## [Franz](https://github.com/meetfranz/franz) Recipe
 
-![image](https://user-images.githubusercontent.com/16315358/50045611-689ba200-00c8-11e9-9b8a-cae09a8700cd.png)
+![screenshot](https://user-images.githubusercontent.com/619186/50497440-9cf35480-0a1e-11e9-9b53-7f4baf6c6447.png)
