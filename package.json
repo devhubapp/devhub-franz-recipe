@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Bruno Lemos <bruno@devhubapp.com>",
   "license": "MIT",
-  "repository": "https://github.com/devhubapp/devhub",
+  "repository": "https://github.com/devhubapp/devhub-franz-recipe",
   "contributors": [
     {
       "name": "Bruno Lemos",
