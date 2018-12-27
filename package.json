@@ -1,15 +1,25 @@
 {
-  "id": "devhubapp",
+  "id": "devhub",
   "name": "DevHub",
-  "version": "1.0.0",
-  "description": "devhubapp.com",
+  "version": "0.40.0",
+  "description": "TweetDeck for GitHub",
   "main": "index.js",
-  "author": "Luong Vo <vodailuong@gmail.com>",
+  "author": "Bruno Lemos <bruno@devhubapp.com>",
   "license": "MIT",
-  "repository": "https://github.com/luongvo/franz-recipe-devhubapp",
+  "repository": "https://github.com/devhubapp/devhub",
+  "contributors": [
+    {
+      "name": "Bruno Lemos",
+      "email": "bruno@devhubapp.com",
+      "url": "https://twitter.com/brunolemos"
+    },
+    {
+      "name": "Luong Vo",
+      "email": "vodailuong@gmail.com",
+      "url": "https://github.com/luongvo"
+    }
+  ],
   "config": {
-    "hasNotificationSound": true,
-    "hasIndirectMessages": true,
     "serviceURL": "https://devhubapp.com/"
   }
 }
