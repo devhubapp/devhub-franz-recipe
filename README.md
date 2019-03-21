@@ -3,7 +3,23 @@
 
 ### Installation
 
-Follow the [instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation) at the Franz docs.<br/>
-TL/DR, download this repository, rename the folder to `devhub` and put it inside the `dev` folder that franz mentions above.
+You need to clone this repository, rename the folder to `devhub` and move it inside the franz `dev` recipes directory. Then, restart Franz. Try the one-liner below:
 
-![screenshot](https://user-images.githubusercontent.com/619186/50497440-9cf35480-0a1e-11e9-9b53-7f4baf6c6447.png)
+#### macOS
+
+`$ git clone git@github.com:devhubapp/devhub-franz-recipe.git ~/Library/Application\ Support/Franz/recipes/dev/devhub`
+
+#### Windows
+
+`$ git clone git@github.com:devhubapp/devhub-franz-recipe.git %appdata%/Franz/recipes/dev/devhub`
+
+#### Linux
+
+`$ git clone git@github.com:devhubapp/devhub-franz-recipe.git ~/.config/Franz/recipes/dev/devhub`
+
+If the above doesn't work, check the [official instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation).
+
+
+### Screenshot
+
+![screenshot](https://user-images.githubusercontent.com/619186/54728333-09807a00-4b5c-11e9-84bf-89b20355bd1d.png)
