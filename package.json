@@ -1,7 +1,7 @@
 {
   "id": "devhub",
   "name": "DevHub",
-  "version": "0.40.0",
+  "version": "0.48.0",
   "description": "TweetDeck for GitHub",
   "main": "index.js",
   "author": "Bruno Lemos <bruno@devhubapp.com>",
